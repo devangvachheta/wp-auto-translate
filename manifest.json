@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "WP Auto Translator",
-  "version": "0.9.0",
-  "description": "WordPress GlotPress auto translation",
+  "version": "1.0.0",
+  "description": "WordPress GlotPress auto translation - 45+ languages",
   "background": {
     "service_worker": "background.js"
   },
