@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "WP Auto Translator",
+  "version": "0.9.0",
+  "description": "WordPress GlotPress auto translation",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "WP Auto Translator"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://translate.wordpress.org/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}
