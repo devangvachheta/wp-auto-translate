@@ -11,7 +11,7 @@ A Chrome extension that automatically translates WordPress plugin/theme strings 
 ## ✨ Features
 
 - **One-click automation** — Translates all untranslated strings automatically
-- **45+ languages** — Gujarati, Hindi, Spanish, French, German, Japanese and more
+- **3 languages** — Gujarati, Hindi, Spanish
 - **Searchable language list** — Find your language instantly
 - **Stop button** — Pause at any time
 - **Max rows control** — Translate 1 to 5000 rows at a time
